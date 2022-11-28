@@ -12,7 +12,7 @@ This software automatically takes a screenshot of the note and stores it when th
 
 ## Download For Windows
 
-<a href="https://github.com/Dinujaya-Sandaruwan/Auto-screenshots-for-DP-Education/releases/download/v1.0.0/DP.Auto.Notes.exe" rel="Download Software">![](https://user-images.githubusercontent.com/88492493/204165128-35c42e4e-11d9-45c1-afc0-4b82d8e26517.png)</a>
+<a href="https://github.com/Dinujaya-Sandaruwan/Auto-screenshots-for-DP-Education/releases/download/v1.0.1/DP.Auto.Notes.exe" rel="Download Software">![](https://user-images.githubusercontent.com/88492493/204165128-35c42e4e-11d9-45c1-afc0-4b82d8e26517.png)</a>
 
 
 
